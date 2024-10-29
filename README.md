@@ -1,4 +1,4 @@
-# getting-started-with-the-vue-toggle-switch-button-component
+# Getting Started with the Vue Toggle Switch Button Component
 A quick-start project that shows how to add the Vue Toggle Switch Button to the Vue application. The Vue Toggle Switch Button component is a custom HTML5 input-type component control that allows you to perform a toggle (on/off) action between checked and unchecked states. It supports different sizes, labels, label positions, and UI customization.
 
 A single switch consists of a toggle state that can be checked and unchecked. To prevent the toggling of the switch value, you can make use of the disable option. You can make use of different switch sizes, default and small, as required in your application.
